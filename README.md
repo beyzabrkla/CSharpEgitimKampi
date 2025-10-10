@@ -25,3 +25,9 @@ Parametre alan ve değer döndüren metotlar yazarak kodu daha modüler hale get
 
 🧠 Proje 8: Geriye Değer Döndüren Fonksiyonlar
 Kullanıcıdan alınan verileri işleyip sonuç döndüren fonksiyonlar geliştirdim.
+
+💾 Proje 9: Ürün-Kategori Bilgi Sistemi (Veritabanı Tabanlı)
+SqlConnection ve SqlCommand sınıflarını kullanarak SQL veritabanına bağlandım. Kullanıcının seçtiği tabloya göre verileri dinamik olarak ekranda listeleyen bir yapı geliştirdim. Bu proje sayesinde veri akışını yönetmeyi, sorgu çalıştırmayı ve ekranla senkronize etmeyi öğrendim.
+
+📊 Proje 10: Menü Sipariş Paneli (CRUD İşlemleriyle Dinamik Yapı)
+Temel CRUD işlemlerini (Create, Read, Update, Delete) uygulayarak ürün ve kategori bilgilerini veritabanında yönettim. SQL komutlarıyla veri ekleme, güncelleme ve silme işlemlerini gerçekleştirdim. Bu proje ile veritabanı etkileşimini pekiştirerek daha dinamik ve sürdürülebilir bir yapı kurmayı öğrendim.
